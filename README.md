@@ -1,4 +1,4 @@
-# Flake8 linter for python 3.9.2
+# Flake8 lint tool for python 3.9.2
 
 Docker image based on `python:3.9.2-alpine` docker image, contains only `flake8` tool for using in CI/CD scripts.
 
